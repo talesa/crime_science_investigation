@@ -1,0 +1,11 @@
+jupyter
+ipython
+pandas
+geopandas
+numpy
+scipy
+matplotlib
+shapely
+pysal
+descartes
+mplleaflet
